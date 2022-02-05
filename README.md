@@ -41,7 +41,7 @@ WhatsApp: +8801904654712<br>
   <summary><b>📈 GitHub Stats</b></summary>
   <p align="center">
     <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=EngrSaad2&theme=light"/></a>
-    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Mikyll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EngrSaad2&show_icons=true" width=55%/></a>
+    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Engr Saad GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EngrSaad2&show_icons=true" width=55%/></a>
     <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngrSaad2&layout=compact&langs_count=8" width=40%/></a>
    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
@@ -148,6 +148,6 @@ WhatsApp: +8801904654712<br>
 
 [coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat-square&logo=buy-me-a-coffee&logoColor=black
 [coffee-url]: https://www.buymeacoffee.com/EngrSaad2
-<!-- https://paypal.me/EngrSaad298 -->
+<!-- https://paypal.me/raselhasandurjoy@gmail.com -->
 <!-- more badges: https://badgen.net/ and https://github.com/Ileriayo/markdown-badges#office -->
 
