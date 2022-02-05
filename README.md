@@ -33,10 +33,10 @@
 <details open="">
   <summary><b>📈 GitHub Stats</b></summary>
   <p align="center">
-    <a href="https://github.com/EngrSaad2/mikyll"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mikyll&theme=light"/></a>
-    <a href="https://github.com/mikyll/mikyll"><img alt="Mikyll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mikyll&show_icons=true" width=55%/></a>
-    <a href="https://github.com/mikyll/mikyll"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikyll&layout=compact&langs_count=8" width=40%/></a>
-    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
+    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=EngrSaad2&theme=light"/></a>
+    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Mikyll's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EngrSaad2&show_icons=true" width=55%/></a>
+    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngrSaad2&layout=compact&langs_count=8" width=40%/></a>
+    <a href="https://github.com/EngrSaad2/EngrSaad2"><img alt="Snake animation" src="https://github.com/EngrSaad2/EngrSaad2/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
 </details>
 
@@ -46,7 +46,7 @@
   <h3>Al Quran With English and Bengali Translation</h3>
   <br/>
   <p align="center">
-    Watch the <a href="https://www.youtube.com/c/EngrSaad">Engr Saad</a> on YouTube!
+    Watch me, <a href="https://www.youtube.com/c/EngrSaad">Engr Saad</a> on YouTube!
   </p>
 </details>
 
@@ -140,7 +140,7 @@
 [raspberry-url]: https://www.raspberrypi.org/
 
 [coffee-shield]: https://img.shields.io/badge/Buy_Me_A_Coffee-F7DF1E?style=flat-square&logo=buy-me-a-coffee&logoColor=black
-[coffee-url]: https://www.buymeacoffee.com/mikyll
-<!-- https://paypal.me/mikyll98 -->
+[coffee-url]: https://www.buymeacoffee.com/EngrSaad2
+<!-- https://paypal.me/EngrSaad298 -->
 <!-- more badges: https://badgen.net/ and https://github.com/Ileriayo/markdown-badges#office -->
 
