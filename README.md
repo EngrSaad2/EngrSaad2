@@ -26,7 +26,14 @@
 
 - 💻 Lead programming languages: Java, PHP, JavaScript.
 
-- 📫 How to reach me: [![linkedin][linkedin-shield]][linkedin-url]
+### Contact Info:
+
+Email: saad@triangeltech.com<br>
+Website: https://engr-saad.com <br>
+LinkedIn: https://www.linkedin.com/in/engr-saad/<br>
+Facebook: https://www.facebook.com/Engr.Saad.2/<br>
+Company WEB: https://triangletech.com.bd/ <br>
+WhatsApp: +8801904654712<br>
 
 -------
 
