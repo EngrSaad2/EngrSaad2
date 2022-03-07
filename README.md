@@ -84,7 +84,8 @@
   <a href="https://app.daily.dev/EngrSaad">
     <img src="https://daily-now-res.cloudinary.com/image/upload/v1614088267/landing/Daily.dev_logo.png" alt="Saad's Wakatime Profile" height="30" width="30">
   </a>
-</p>
+
+
 <h2 align="center">Send text to my social platform to develop projects.</h2>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Engr.Saad.2/<)
@@ -94,7 +95,7 @@
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saad@triangeltech.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/949952532250259457)
 
-
+</p>
 Email: saad@triangeltech.com<br>
 Website: https://engr-saad.com <br>
 LinkedIn: https://www.linkedin.com/in/engr-saad/<br>
