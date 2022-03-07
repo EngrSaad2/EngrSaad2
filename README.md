@@ -1,4 +1,4 @@
-<div align="center">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+<div align="center">
 
   <h1 align="center">Engr Saad</h1>
 
@@ -28,7 +28,7 @@
 - 💻 Lead programming languages: Java, PHP, JavaScript.
 
 
-<h2 align="center">You can catch me at Programming Platform</h2>
+<h2 align="center">Send text to my social platform for developing web projects.</h2>
 
 <p align="center">
   <a href="https://stackoverflow.com/users/8378231/engr-saad">
@@ -86,7 +86,7 @@
   </a>
 
 <div align="center">
-<h2 align="center">Send text to my social platform for developing web projects.</h2>
+
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Engr.Saad.2/<)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Engr.Saad2/)
