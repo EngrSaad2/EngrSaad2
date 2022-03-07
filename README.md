@@ -95,7 +95,7 @@
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saad@triangeltech.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/949952532250259457)
 
-</dev>
+</div>
 Email: saad@triangeltech.com<br>
 Website: https://engr-saad.com <br>
 LinkedIn: https://www.linkedin.com/in/engr-saad/<br>
