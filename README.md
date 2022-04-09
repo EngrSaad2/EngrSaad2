@@ -13,7 +13,7 @@
 [![python][python-shield]][python-url]
 [![windows][windows-shield]][windows-url]
 [![go][go-shield]][go-url]
-[![android][android-shield]][android-url]
+[![android][android-shield]][android-url] 
 [![latex][latex-shield]][latex-url]
 [![c#][c#-shield]][c#-url]
 [![markdown][md-shield]][md-url]
