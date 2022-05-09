@@ -8,7 +8,7 @@
 [![html][html-shield]][html-url]
 [![raspberry-pi][raspberry-shield]][raspberry-url] 
 [![visual-studio][vs-shield]][vs-url]
-[![flutter][flutter-shield]][flutter-url]. 
+[![flutter][flutter-shield]][flutter-url] 
 [![c][c-shield]][c-url]
 [![python][python-shield]][python-url]
 [![windows][windows-shield]][windows-url]
