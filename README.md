@@ -5,7 +5,7 @@
 [![javascript][javascript-shield]][javascript-url]
 [![linux][linux-shield]][linux-url]
 [![java][java-shield]][java-url]. 
-[![html][html-shield]][html-url]
+[![html][html-shield]][html-url] 
 [![raspberry-pi][raspberry-shield]][raspberry-url] 
 [![visual-studio][vs-shield]][vs-url]
 [![flutter][flutter-shield]][flutter-url] 
