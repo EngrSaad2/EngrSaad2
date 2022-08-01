@@ -22,7 +22,7 @@
    
 </div>
 
-### Hi, This is Saad. A Passionate Software Developer, Entrepreneur and Programmer. I love to play with coding, building software, and focusing on learning new technologies. I currently serve as the CEO of Triangle Technologies Limited, a renowned software firm. Also, I have been working as a Senior Software Engineer for the last 3 years at a leading IT enabled business company known as HUSSAINS™ Business Consultants Limited.
+### Hi, This is Saad. A Passionate Software Developer, Entrepreneur and Programmer. I love to play with coding, building software, and focusing on learning new technologies. I currently serve as the CEO of Triangle Technologies Limited, a renowned software firm in Bangladesh. Also, I have been working as a Senior Software Engineer for the last 3 years at a leading IT enabled business company known as HUSSAINS™ Business Consultants Limited.
 
 - 💻 Lead programming languages: Java, PHP, JavaScript. 
 
