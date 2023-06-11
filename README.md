@@ -95,7 +95,7 @@
 ![](https://komarev.com/ghpvc/?username=EngrSaad2)
 
 </div>
-Email: saad@triangeltech.com<br>
+Email: saad@triangletech.com.bd<br>
 Website: https://engr-saad.com <br>
 LinkedIn: https://www.linkedin.com/in/engr-saad/<br>
 Facebook: https://www.facebook.com/Engr.Saad.2/<br>
