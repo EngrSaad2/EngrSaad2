@@ -52,9 +52,7 @@
   <a href="https://www.datacamp.com/profile/EngrSaad2">
     <img src="https://www.svgrepo.com/show/349332/datacamp.svg" alt="Saad's Datacamp Profile" height="30" width="30"/>
   </a>
-  <a href="https://tryhackme.com/p/EngrSaad">
-    <img src="https://tryhackme.com/img/favicon.png" alt="Saad's TryHackMe Profile" height="30" width="30"/>
-  </a>
+ 
   <a href="https://codesandbox.io/u/EngrSaad">
     <img src="https://www.saashub.com/images/app/service_logos/9/ae995212f366/large.png?1528180811" alt="Saad's CodeSandbox Profile" height="30" width="30">
   </a> 
