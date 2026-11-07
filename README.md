@@ -91,8 +91,8 @@
 </div>
 Email: saad@triangletech.com.bd<br>
 Website: https://engr-saad.com <br>
-LinkedIn: https://www.linkedin.com/in/engr-saad/<br>
-Facebook: https://www.facebook.com/Engr.Saad.2/<br>
+LinkedIn: https://www.linkedin.com/in/engrsaad2/<br>
+Facebook: https://www.facebook.com/EngrSaad2/<br>
 Company WEB: https://triangletech.com.bd/ <br>
 WhatsApp: +8801904654712<br>
 
