@@ -106,9 +106,9 @@ WhatsApp: +8801904654712<br>
     <a href="https://github.com/EngrSaad2"><img alt="Top Langs" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EngrSaad2&layout=compact&langs_count=8" width="40%"/></a>
     <br/>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngrSaad2/EngrSaad2/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngrSaad2/EngrSaad2/output/github-contribution-grid-snake.svg">
-      <img alt="Snake animation" src="https://raw.githubusercontent.com/EngrSaad2/EngrSaad2/output/github-contribution-grid-snake.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngrSaad2/EngrSaad2/output/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngrSaad2/EngrSaad2/output/github-snake.svg">
+      <img alt="Snake animation" src="https://raw.githubusercontent.com/EngrSaad2/EngrSaad2/output/github-snake.svg" />
     </picture>
   </p>
 </details>
